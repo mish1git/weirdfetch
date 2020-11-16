@@ -4,6 +4,7 @@ This is a custom fetch created by me in bash. It originally worked on bash only 
 ## Features
 
 - Extremely low linecount (20 lines)
+  - Older versions were even more lightweight, so if you wanna sacrifice extra features for less lines, feel free to do so.
 - Extremely lightweight
 - Gets the job done
 - Looks nice enough
