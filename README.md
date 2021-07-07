@@ -8,3 +8,9 @@ This is a custom fetch created by me in bash. It originally worked on bash only 
 - Extremely easy install
 - Gets the job done
 - Looks nice enough
+
+<p align="center">
+
+    // Your content
+
+</p>
